@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning Big Data, Machine Learning, AI, and Cyber security.
 - 🍄 I'm also a UI/UX designer
 ### Social Platform
-rosemaryminah@gamil.com
+rosemaryminah@gmail.com
+

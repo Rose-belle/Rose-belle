@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning Big Data, Machine Learning, AI, and Cyber security.
-- 🍄 I'm also a UI/UX designer.
+- 🍄 I'm also a UI/UX designer and an aspiring Network Engineer
